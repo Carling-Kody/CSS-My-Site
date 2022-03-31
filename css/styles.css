@@ -1,3 +1,11 @@
 body {
-  background-color: blue;
+  margin: 0;
+}
+
+.name-title {
+  background-color: #e4f9f5;
+}
+
+.name {
+  margin-top: 0;
 }
